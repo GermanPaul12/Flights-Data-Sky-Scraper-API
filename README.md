@@ -35,6 +35,7 @@ Before you begin, ensure you have met the following requirements:
 ```python
 X_RapidAPI_Key = "your-api-key"
 X_RapidAPI_Host = "your-api-host"
+```
 
 ### Usage
 
