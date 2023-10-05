@@ -1,1 +1,108 @@
 COUNTRY_ID,COUNTRY_NAME,PRICE,CURRENCY,TIMESTAMP,IMAGE_URL
+GR,Greece,71.47,EUR,1696509909862,https://content.skyscnr.com/26babb582bc1d7572fed1877d7f81fa6/GettyImages-181391203.jpg?crop=400px:400px&quality=75
+DE,Germany,85.44,EUR,1696509909862,https://content.skyscnr.com/917a21468839141dd406892864a9f52e/GettyImages-490614171.jpg?crop=400px:400px&quality=75
+TR,T�rkiye (Turkey),109.99,EUR,1696509909862,https://content.skyscnr.com/d23308b5729b733820564edb659313d2/GettyImages-474693922.jpg?crop=400px:400px&quality=75
+IT,Italy,112.07,EUR,1696509909862,https://content.skyscnr.com/f348d79cfdf70286dc759d24618a23c3/GettyImages-182281845.jpg?crop=400px:400px&quality=75
+UK,United Kingdom,124.83,EUR,1696509909862,https://content.skyscnr.com/1017dd4cef7a773021e1b335b3410d30/GettyImages-487828389.jpg?crop=400px:400px&quality=75
+AM,Armenia,129,EUR,1696509909862,https://content.skyscnr.com/87b1cf8064902ae4d9176a1e023ec6cb/GettyImages-463123517.jpg?crop=400px:400px&quality=75
+PL,Poland,134.36,EUR,1696509909862,https://content.skyscnr.com/16636d692d5905702ad23e3d35c65e48/GettyImages-178367416.jpg?crop=400px:400px&quality=75
+NL,Netherlands,134.37,EUR,1696509909862,https://content.skyscnr.com/ad69d6422f78bb52563685faad33e0c1/GettyImages-516036155.jpg?crop=400px:400px&quality=75
+SE,Sweden,148.91,EUR,1696509909862,https://content.skyscnr.com/ff74ff6df34c2b06f6f895e14fe32512/GettyImages-100891056.jpg?crop=400px:400px&quality=75
+DK,Denmark,150.58,EUR,1696509909862,https://content.skyscnr.com/d22c8f93938b699739ba5e9d682019af/GettyImages-474603829.jpg?crop=400px:400px&quality=75
+LV,Latvia,152.47,EUR,1696509909862,https://content.skyscnr.com/de54d44c70db4a743503a0914ad532b8/GettyImages-492496777.jpg?crop=400px:400px&quality=75
+EG,Egypt,153.24,EUR,1696509909862,https://content.skyscnr.com/acc18b20b3d6fc6edee095dc709c2e8a/GettyImages-516505363.jpg?crop=400px:400px&quality=75
+IE,Ireland,153.34,EUR,1696509909862,https://content.skyscnr.com/34f61dd7f8deb4059c12b0b8de9ee002/GettyImages-472229890.jpg?crop=400px:400px&quality=75
+HR,Croatia,155.33,EUR,1696509909862,https://content.skyscnr.com/bdea895ca2746a767312cb9ff9ab9186/GettyImages-502736148.jpg?crop=400px:400px&quality=75
+MA,Morocco,160,EUR,1696509909862,https://content.skyscnr.com/0c1b0ffcf42566b18ce3934ccf32c415/GettyImages-136909106.jpg?crop=400px:400px&quality=75
+BG,Bulgaria,166.78,EUR,1696509909862,https://content.skyscnr.com/96111faa66424ee93ae8cd1e9e416496/GettyImages-500119385.jpg?crop=400px:400px&quality=75
+ES,Spain,167.44,EUR,1696509909862,https://content.skyscnr.com/e0241c97c2b33b71e9c278bc89bb17ed/GettyImages-178640523.jpg?crop=400px:400px&quality=75
+LU,Luxembourg,174,EUR,1696509909862,https://content.skyscnr.com/a9c8f71cc409e74513aaf64dc4e75c66/GettyImages-510613019.jpg?crop=400px:400px&quality=75
+FR,France,175,EUR,1696509909862,https://content.skyscnr.com/c88da2b091534f7baf8536b3959ce83a/GettyImages-495057957.jpg?crop=400px:400px&quality=75
+QA,Qatar,175.17,EUR,1696509909862,https://content.skyscnr.com/ac761797b8f4c38a07748eced9421207/GettyImages-473796126.jpg?crop=400px:400px&quality=75
+CY,Cyprus,176,EUR,1696509909862,https://content.skyscnr.com/1e1ee1429a2277feae3d34a0cdf57886/GettyImages-135083549.jpg?crop=400px:400px&quality=75
+AL,Albania,180,EUR,1696509909862,https://content.skyscnr.com/d4acb8b30e8cfcb36db339ce50fd23ae/GettyImages-485428808.jpg?crop=400px:400px&quality=75
+XK,Kosovo,182,EUR,1696509909862,https://content.skyscnr.com/12e6ca0147ac9cdfe4d4e455bd6d4997/eyeem-26313617-111394888.jpg?crop=400px:400px&quality=75
+AE,United Arab Emirates,182.31,EUR,1696509909862,https://content.skyscnr.com/e87b304f10a700cae0d08ea920c8be32/GettyImages-470434611.jpg?crop=400px:400px&quality=75
+BH,Bahrain,182.6,EUR,1696509909862,https://content.skyscnr.com/c2c81c0b9872609fdb27800fd99198d9/eyeem-26693940-101910152.jpg?crop=400px:400px&quality=75
+OM,Oman,182.6,EUR,1696509909862,https://content.skyscnr.com/5236a1cace5e3b4f5b9be79433ba51ea/oman.jpg?crop=400px:400px&quality=75
+AT,Austria,183,EUR,1696509909862,https://content.skyscnr.com/9c1264f41dfac6d9ab3cbc23156feaf5/GettyImages-467854441.jpg?crop=400px:400px&quality=75
+HU,Hungary,183,EUR,1696509909862,https://content.skyscnr.com/1326f876f67413db59cc34a466945260/GettyImages-493113190.jpg?crop=400px:400px&quality=75
+MK,North Macedonia,183.54,EUR,1696509909862,https://content.skyscnr.com/af5081211572a25b7ceef576add12ee1/GettyImages-495469625.jpg?crop=400px:400px&quality=75
+LB,Lebanon,187.17,EUR,1696509909862,https://content.skyscnr.com/m/72fdadf52e403a17/original/GettyImages-461976569_doc.jpg?crop=400px:400px&quality=75
+RO,Romania,191,EUR,1696509909862,https://content.skyscnr.com/m/663f88960abe9441/original/GettyImages-177499138.jpg?crop=400px:400px&quality=75
+KW,Kuwait,195,EUR,1696509909862,https://content.skyscnr.com/afaacdea074d53702da4daccbdfdd28a/GettyImages-115889746.jpg?crop=400px:400px&quality=75
+PT,Portugal,197,EUR,1696509909862,https://content.skyscnr.com/e48dd065c801bef1b761c506a5a2fde9/GettyImages-467824014.jpg?crop=400px:400px&quality=75
+FI,Finland,197.88,EUR,1696509909862,https://content.skyscnr.com/2c2524173e84f10b29e9853e9f427b7f/GettyImages-516314097.jpg?crop=400px:400px&quality=75
+SI,Slovenia,198,EUR,1696509909862,https://content.skyscnr.com/119b73c5f7597401e98579c81634e8e5/GettyImages-495685019.jpg?crop=400px:400px&quality=75
+NO,Norway,198.35,EUR,1696509909862,https://content.skyscnr.com/8ab21fe9e704f373e61689e635e63c60/GettyImages-498373538.jpg?crop=400px:400px&quality=75
+EE,Estonia,202.99,EUR,1696509909862,https://content.skyscnr.com/818c488cf024b62189e95ba4ee27367b/GettyImages-481610872.jpg?crop=400px:400px&quality=75
+SA,Saudi Arabia,204.21,EUR,1696509909862,https://images.skyscnr.com/images/tiles/600x600/SA.jpg
+ME,Montenegro,210,EUR,1696509909862,https://content.skyscnr.com/f71a8075838fbaae6be68304d1eaab4a/GettyImages-479863398.jpg?crop=400px:400px&quality=75
+MT,Malta,210,EUR,1696509909862,https://content.skyscnr.com/m/a546cc61401361e/original/malta-pic-blue-lagoon.jpg?crop=400px:400px&quality=75
+DZ,Algeria,213.62,EUR,1696509909862,https://content.skyscnr.com/4352971de8ba6cb9b7f0589898912aff/GettyImages-186025166.jpg?crop=400px:400px&quality=75
+CH,Switzerland,217.36,EUR,1696509909862,https://content.skyscnr.com/92ec24310bc1e0c2c5022132dd1d4d55/GettyImages-178766147.jpg?crop=400px:400px&quality=75
+LT,Lithuania,220.94,EUR,1696509909862,https://content.skyscnr.com/3d9991cce5c6c4933f8ec0969785cc4c/GettyImages-100590065.jpg?crop=400px:400px&quality=75
+BE,Belgium,224,EUR,1696509909862,https://content.skyscnr.com/7f99e0b77af76bf7e89a614cba3a1d9d/GettyImages-517851449.jpg?crop=400px:400px&quality=75
+AZ,Azerbaijan,226.31,EUR,1696509909862,https://content.skyscnr.com/89752adf383cb4193b53df7bb2635ded/GettyImages-477327968.jpg?crop=400px:400px&quality=75
+RS,Serbia,227.87,EUR,1696509909862,https://content.skyscnr.com/d1831c1a59e1ea608773be52b099f7b4/GettyImages-177007038.jpg?crop=400px:400px&quality=75
+TN,Tunisia,228,EUR,1696509909862,https://content.skyscnr.com/83fcecc1271b93c71e90549d2b615d50/GettyImages-175956367.jpg?crop=400px:400px&quality=75
+KZ,Kazakhstan,240.17,EUR,1696509909862,https://content.skyscnr.com/bfb43286b5011fbe5266eb0f9766d0d7/GettyImages-486101600.jpg?crop=400px:400px&quality=75
+BA,Bosnia and Herzegovina,240.63,EUR,1696509909862,https://content.skyscnr.com/49e574742f759ce4dd8d0d6d48e57d40/GettyImages-480404012.jpg?crop=400px:400px&quality=75
+JO,Jordan,240.94,EUR,1696509909862,https://content.skyscnr.com/a88907f9ccd8314ee90cdf24de3ef073/GettyImages-490578292.jpg?crop=400px:400px&quality=75
+GE,Georgia,243.78,EUR,1696509909862,https://content.skyscnr.com/9ce4f334206ecb75decf8dcadac81839/GettyImages-484678884.jpg?crop=400px:400px&quality=75
+SK,Slovakia,252,EUR,1696509909862,https://content.skyscnr.com/306b82b70a621c16a4ff68497efca061/GettyImages-530970203.jpg?crop=400px:400px&quality=75
+CZ,Czechia,263.26,EUR,1696509909862,https://content.skyscnr.com/6f3779016c23190fadcdc6f500f5dc11/GettyImages-464420602.jpg?crop=400px:400px&quality=75
+IR,Iran,266,EUR,1696509909862,https://content.skyscnr.com/61dd582d155713d6bb5a2d8b388ea5ea/GettyImages-488512694.jpg?crop=400px:400px&quality=75
+IS,Iceland,273,EUR,1696509909862,https://content.skyscnr.com/b6c9eab07efe88e1533e7cbbbb13fa89/GettyImages-529240739.jpg?crop=400px:400px&quality=75
+PK,Pakistan,275,EUR,1696509909862,https://content.skyscnr.com/6ee766b3cf0f075d4f8bc2cab3471747/GettyImages-475444191.jpg?crop=400px:400px&quality=75
+IQ,Iraq,284,EUR,1696509909862,https://content.skyscnr.com/552cea75dab8a1cf06731d4a8dfab435/GettyImages-468435302.jpg?crop=400px:400px&quality=75
+BD,Bangladesh,286,EUR,1696509909862,https://content.skyscnr.com/439353930da4951ef91a1e18516c1a2b/GettyImages-119412560.jpg?crop=400px:400px&quality=75
+IN,India,300,EUR,1696509909862,https://content.skyscnr.com/ec26cc7ac3371abc1b8ea45df0b88791/GettyImages-480882769.jpg?crop=400px:400px&quality=75
+LK,Sri Lanka,324,EUR,1696509909862,https://content.skyscnr.com/a52cf8ef3527238d9ac2a83d58642777/GettyImages-488524209.jpg?crop=400px:400px&quality=75
+CV,Cape Verde,330,EUR,1696509909862,https://images.skyscnr.com/images/tiles/600x600/CV.jpg
+KE,Kenya,359.99,EUR,1696509909862,https://content.skyscnr.com/9f22acec076ec1fcc563ab830cc131eb/GettyImages-522357593.jpg?crop=400px:400px&quality=75
+ET,Ethiopia,366.02,EUR,1696509909862,https://content.skyscnr.com/214783cb951d8a59299c884856c5fdc3/GettyImages-186203296.jpg?crop=400px:400px&quality=75
+IL,Israel,367.68,EUR,1696509909862,https://content.skyscnr.com/f5c3712b7fe4d1bdbb7e84261abbf904/GettyImages-486858743.jpg?crop=400px:400px&quality=75
+MV,Maldives,387,EUR,1696509909862,https://content.skyscnr.com/61351ddd7e9704056d0e76263c529a7b/GettyImages-512347906.jpg?crop=400px:400px&quality=75
+TZ,Tanzania,395,EUR,1696509909862,https://content.skyscnr.com/0e13dd0394a185394d5f95a264f7a91e/GettyImages-488017022.jpg?crop=400px:400px&quality=75
+SG,Singapore,399.51,EUR,1696509909862,https://content.skyscnr.com/5359c305bbed8c4e18b252b159a67cfa/GettyImages-187011688.jpg?crop=400px:400px&quality=75
+KG,Kyrgyzstan,402.85,EUR,1696509909862,https://content.skyscnr.com/8ab490311a4698d40a2ad51abde0a0b8/kyrgyzstan-july-2017.jpg?crop=400px:400px&quality=75
+NP,Nepal,420,EUR,1696509909862,https://content.skyscnr.com/c8cecb6d5971d7ca1feb542c276a6618/GettyImages-462451385.jpg?crop=400px:400px&quality=75
+TH,Thailand,423,EUR,1696509909862,https://content.skyscnr.com/e0a42512a8f7baba699430c43d90e339/GettyImages-465582049.jpg?crop=400px:400px&quality=75
+MY,Malaysia,431,EUR,1696509909862,https://content.skyscnr.com/1774d53524a0a485c5c990678a472cf6/GettyImages-503612842.jpg?crop=400px:400px&quality=75
+PH,Philippines,438,EUR,1696509909862,https://content.skyscnr.com/4256a18a3673a5f3926fc37bb2b80beb/GettyImages-517678055.jpg?crop=400px:400px&quality=75
+MC,Monaco,439,EUR,1696509909862,https://content.skyscnr.com/a3b95c4820f4f2bfd85777957c14fd81/GettyImages-498729941.jpg?crop=400px:400px&quality=75
+UZ,Uzbekistan,451.85,EUR,1696509909862,https://content.skyscnr.com/db8618a8d4d3dcb74d88b3c431aaa965/GettyImages-177749248.jpg?crop=400px:400px&quality=75
+KH,Cambodia,463,EUR,1696509909862,https://images.skyscnr.com/images/tiles/600x600/KH.jpg
+TJ,Tajikistan,467.93,EUR,1696509909862,https://content.skyscnr.com/fc8f8cb8e6ad8af6db2d7bdff376f3d0/GettyImages-91447861.jpg?crop=400px:400px&quality=75
+MX,Mexico,477,EUR,1696509909862,https://content.skyscnr.com/1ad5fff55243bd5f76c33e3577c2540d/GettyImages-483527336.jpg?crop=400px:400px&quality=75
+ER,Eritrea,504.31,EUR,1696509909862,https://content.skyscnr.com/9ff7f3a7356629f6761e2adbc34273d7/GettyImages-178546321.jpg?crop=400px:400px&quality=75
+TW,Taiwan,504.74,EUR,1696509909862,https://content.skyscnr.com/05accaec28ad48ea37b4c5e13bbbfa7b/GettyImages-166140632.jpg?crop=400px:400px&quality=75
+ID,Indonesia,507,EUR,1696509909862,https://content.skyscnr.com/500895cfc34ed09c588403e89b0d40af/GettyImages-177723673.jpg?crop=400px:400px&quality=75
+LC,Saint Lucia,510.27,EUR,1696509909862,https://content.skyscnr.com/57fb5936996a04f32652858a583c278b/GettyImages-140406176.jpg?crop=400px:400px&quality=75
+CU,Cuba,514.51,EUR,1696509909862,https://content.skyscnr.com/48fa161f8a25489d6487cdda8287fcc2/GettyImages-469739618.jpg?crop=400px:400px&quality=75
+CM,Cameroon,519.4,EUR,1696509909862,https://content.skyscnr.com/4e320da45c45e8ea10f62f51256b66fb/GettyImages-461229549.jpg?crop=400px:400px&quality=75
+VN,Vietnam,524,EUR,1696509909862,https://content.skyscnr.com/0012f421f0682d22815185912d6e105c/GettyImages-481711830.jpg?crop=400px:400px&quality=75
+US,United States,525,EUR,1696509909862,https://content.skyscnr.com/12b715db2fe88a58ee57ae99b985b32a/GettyImages-153734070.jpg?crop=400px:400px&quality=75
+DO,Dominican Republic,542.54,EUR,1696509909862,https://images.skyscnr.com/images/tiles/600x600/DO.jpg
+AF,Afghanistan,554,EUR,1696509909862,https://content.skyscnr.com/ae5783c38adb90b7993c5d984c4c5b1b/GettyImages-468421149.jpg?crop=400px:400px&quality=75
+CA,Canada,567,EUR,1696509909862,https://content.skyscnr.com/2ae02fb73aaad6e6bd4d3d3bb7d8278a/GettyImages-162384798.jpg?crop=400px:400px&quality=75
+NA,Namibia,595.17,EUR,1696509909862,https://content.skyscnr.com/980ccce8ed420f06231950d5aa53c724/GettyImages-481665344.jpg?crop=400px:400px&quality=75
+ZA,South Africa,598,EUR,1696509909862,https://content.skyscnr.com/4d394cbaa3bd9e013799160cef9041dd/GettyImages-504279936.jpg?crop=400px:400px&quality=75
+ZW,Zimbabwe,606.17,EUR,1696509909862,https://content.skyscnr.com/f8d2b3fb344d9d66bf1324b955e6ac7e/GettyImages-122239086.jpg?crop=400px:400px&quality=75
+JP,Japan,625,EUR,1696509909862,https://content.skyscnr.com/dd114ccd4424789005cbd0f6cd8881e1/GettyImages-131906563.jpg?crop=400px:400px&quality=75
+BS,Bahamas,627,EUR,1696509909862,https://content.skyscnr.com/a5abc7ea070a8e2a6431477ca00d179e/GettyImages-147049964.jpg?crop=400px:400px&quality=75
+CR,Costa Rica,636.27,EUR,1696509909862,https://content.skyscnr.com/5d83a541a6e2c21eec264c04e5752429/GettyImages-492356834.jpg?crop=400px:400px&quality=75
+SC,Seychelles,645.29,EUR,1696509909862,https://content.skyscnr.com/151d39a4b7c3dc8f1b421ab906d1130b/GettyImages-178760424.jpg?crop=400px:400px&quality=75
+KR,South Korea,654,EUR,1696509909862,https://content.skyscnr.com/db465e93dcaad614e9bfcaddb5865e36/GettyImages-505777764.jpg?crop=400px:400px&quality=75
+HK,Hong Kong,666.84,EUR,1696509909862,https://content.skyscnr.com/ad4e19fe7f426ba07750fdb64c5fcd1c/hkga_464624727.jpg?crop=400px:400px&quality=75
+MN,Mongolia,703,EUR,1696509909862,https://content.skyscnr.com/7d63201971e2d727042ab48af4f0db09/eyeem-26313617-112591752.jpg?crop=400px:400px&quality=75
+CO,Colombia,721,EUR,1696509909862,https://content.skyscnr.com/91a3af3b70ff1445ab546f2fc37c68e2/gettyimages-530753093.jpg?crop=400px:400px&quality=75
+CN,China,738.35,EUR,1696509909862,https://content.skyscnr.com/ec6e1a573dde92117986911e9c097f0b/GettyImages-462416635.jpg?crop=400px:400px&quality=75
+PY,Paraguay,774.7,EUR,1696509909862,https://content.skyscnr.com/c7b3c29eafe8ad22bc891db43012695a/GettyImages-154240532.jpg?crop=400px:400px&quality=75
+BR,Brazil,801,EUR,1696509909862,https://content.skyscnr.com/69907554dc47aab9e74edf172e01fb44/GettyImages-516984709.jpg?crop=400px:400px&quality=75
+BB,Barbados,876,EUR,1696509909862,https://content.skyscnr.com/eb312a8601575c7f20fa951231322733/GettyImages-145929052.jpg?crop=400px:400px&quality=75
+AU,Australia,913,EUR,1696509909862,https://content.skyscnr.com/aa63694be729955d3709259f1cd989ea/GettyImages-484018307.jpg?crop=400px:400px&quality=75
+AR,Argentina,984.7,EUR,1696509909862,https://content.skyscnr.com/e2ef29b11c3586421a32b14b9951b01c/gettyimages-673156625.jpg?crop=400px:400px&quality=75
+NZ,New Zealand,1331.32,EUR,1696509909862,https://content.skyscnr.com/298f7876c93ca82e92877c5c672bd5aa/GettyImages-176796713.jpg?crop=400px:400px&quality=75
+NC,New Caledonia,1477,EUR,1696509909862,https://content.skyscnr.com/de2471be343dfc0e6b84996b01a44745/eyeem-26313617-84825304.jpg?crop=400px:400px&quality=75

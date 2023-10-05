@@ -28,4 +28,4 @@ for i in range(len(data)):
     IMAGE_URL = country_data["Payload"]["ImageUrl"]
     
     with open("data.csv", "a+") as f:
-        f.write(f"{COUNTRY_ID},{COUNTRY_NAME},{PRICE},{CURRENCY},{TIMESTAMP},{IMAGE_URL}")
+        f.write(f"{COUNTRY_ID},{COUNTRY_NAME},{PRICE},{CURRENCY},{TIMESTAMP},{IMAGE_URL}\n")
